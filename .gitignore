@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was created by Faruk.
+################################################################################
+
+[Oo]bj/
+[Bb]in/
+[Ll]ibrary/
+.nuget/
+.vs/
+_ReSharper.*
+packages/
+artifacts/
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
+.aspnet/
